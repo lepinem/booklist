@@ -1,0 +1,10 @@
+/*App.css*/
+
+.App{
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.card{
+  border: hidden;
+}
